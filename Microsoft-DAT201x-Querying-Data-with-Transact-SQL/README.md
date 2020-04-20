@@ -9,7 +9,7 @@ About: [SQL](https://docs.microsoft.com/pt-br/sql/?view=sql-server-ver15)
 ## Content
 
 ✅ [Module 1: Introduction to Transact-SQL]()\
-✅ [Module 2: Querying Tables with SELECT]()\
+✅ [Module 2: Querying Tables with SELECT](https://github.com/mrncstt/edx/tree/master/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/Used_Files/Querying_Tables_with_SELECT)\
 🔘 [Module 3: Querying Multiple Tables with Joins]()\
 ▶️ [Module 4: Using Set Operators]()\
 ▶️ [Module 5: Using Functions and Aggregating Data]()\
