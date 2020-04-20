@@ -10,8 +10,8 @@ About: [SQL](https://docs.microsoft.com/pt-br/sql/?view=sql-server-ver15)
 
 ✅ [Module 1: Introduction to Transact-SQL]()\
 ✅ [Module 2: Querying Tables with SELECT](https://github.com/mrncstt/edx/tree/master/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/Used_Files/Querying_Tables_with_SELECT)\
-🔘 [Module 3: Querying Multiple Tables with Joins](https://github.com/mrncstt/edx/blob/master/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/Used_Files/Querying_Multiple_Tables_with_Joins/README.MD)\
-▶️ [Module 4: Using Set Operators]()\
+✅ [Module 3: Querying Multiple Tables with Joins](https://github.com/mrncstt/edx/blob/master/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/Used_Files/Querying_Multiple_Tables_with_Joins/README.MD)\
+🔘 [Module 4: Using Set Operators](https://github.com/mrncstt/edx/blob/master/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/Used_Files/Using_Set_Operators/README.md)\
 ▶️ [Module 5: Using Functions and Aggregating Data]()\
 ▶️ [Module 6: Using Subqueries and APPLY]()\
 ▶️ [Module 7: Using Table Expressions]()\
